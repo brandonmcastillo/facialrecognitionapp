@@ -4,6 +4,11 @@ Main Link: [https://facerecognitionapp101.herokuapp.com/]<br>
 Backend API: [https://facialrecognitionbackend.herokuapp.com/]<br>
 Backend Github: [https://github.com/brandonmcastillo/facialrecognitionbackend]
 
+## Screenshots
+![](README_assets/picture.png)
+<br>
+![](README_assets/picture2.png)
+
 ## Technologies
 
 <p>The technologies I used for this application for the front end was React.js, tachyons for styling and Clarifai for the exteral API to track the faces. The backend uses Node.js/Express and PostgreSQL.
