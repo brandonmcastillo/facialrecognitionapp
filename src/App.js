@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './App.css';
+import './index.css'
 import Navigation from './components/navigation/Navigation';
 import Logo from './components/Logo/Logo';
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
