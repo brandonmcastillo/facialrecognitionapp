@@ -15,7 +15,7 @@ Backend Github: [https://github.com/brandonmcastillo/facialrecognitionbackend]
 
 ### Summary + What I learned + Challenges
 
-<p>This app was based on Andrei Neagoeis final project for his full stack bootcamp. It helped me get a more clear and concise way of using React even though I have built a react application before. I originally had trouble understanding state and passing props but this helped practice my skills and become more comfortable using react. In additon, I learned about tachyons, knex.js (SQL query builder), bcrypt-nodejs and other technologies that can help me in the future. <br>
+<p>This app helped me get a more clear and concise way of using React. I originally had trouble understanding state and passing props but this helped me sharpen my skills and become more comfortable using react. In additon, I learned about tachyons, knex.js (SQL query builder), bcrypt-nodejs and other technologies that can help me in the future. <br>
 
-Some challenges I ran into was mainly focused on pinpointing where to pass props since it is a one way binding dataflow and making sure to remember the state of certain components. </p>
+Some challenges I ran into was mainly focused on pinpointing where to pass props since it is a one way binding dataflow and making sure to remember the current state of certain components. </p>
 
